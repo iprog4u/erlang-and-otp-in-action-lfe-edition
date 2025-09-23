@@ -1,0 +1,7 @@
+To run the program, start LFE from this directory,
+then run the following in the LFE shell:
+
+lfe> (c 'pingpong.lfe)
+(#(module pingpong))
+lfe> (pingpong:run)
+ok
