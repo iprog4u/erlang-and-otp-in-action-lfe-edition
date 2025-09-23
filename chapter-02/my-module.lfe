@@ -99,8 +99,8 @@
    <dt><b>D&D</b>:
    <dd><b>Dungeons and Dragons</b>
    ("<dl>\n" (ok) "</dl>")
-  |#					;
-  (render (list (tuple "D&D" "Dungeons and Dragons")) "b")) ;
+  |#
+  (render (list (tuple "D&D" "Dungeons and Dragons")) "b"))
 
 (defun sum
   "An example of a non tail-recursive function.  It is not tail-recursive
