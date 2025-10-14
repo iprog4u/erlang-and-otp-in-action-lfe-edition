@@ -16,5 +16,8 @@ deps
 _build/
 _checkouts/
 
-# Emacs save file for LFE
+# Emacs save files for LFE
 *.lfe~
+
+# Emacs auto-save file
+^\#.*\#$
